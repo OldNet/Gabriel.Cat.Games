@@ -14,6 +14,8 @@ using System.Windows.Forms;
 using Gabriel.Cat;
 using System.Threading;
 using System.Drawing.Drawing2D;
+using Gabriel.Cat.Extension;
+
 namespace Gabriel.Cat.Games.WinForms
 {
 	/// <summary>

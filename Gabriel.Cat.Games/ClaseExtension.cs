@@ -8,7 +8,7 @@
  */
 using System;
 using System.Drawing;
-
+using Gabriel.Cat.Extension;
 namespace Gabriel.Cat.Games
 {
 	/// <summary>
